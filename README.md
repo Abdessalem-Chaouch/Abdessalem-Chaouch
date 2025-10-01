@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi there, I'm Abdessalem Chaouch</h1>
 <h3 align="center">💻 Full-Stack Developer | Big Data Enthusiast | MERN & PHP Frameworks</h3>
-<p align="center">📍 Hammamet, Tunisia | 📧 abdessalem.chaouch@esprit.tn | <a href="https://www.linkedin.com/in/abdessalem-chaouch-312852231/">LinkedIn</a> | <a href="https://github.com/Abdessalem-Chaouch">GitHub</a></p>
+<p align="center">📍 Hammamet, Tunisia | 📧 abdessalem.chaouch@esprit.tn | <a href="https://www.linkedin.com/in/abdessalem-chaouch-312852231/">LinkedIn</a> </p>
 
 ---
 
