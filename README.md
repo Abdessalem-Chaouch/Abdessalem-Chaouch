@@ -13,10 +13,10 @@
 
 ## 🌍 Connect with Me  
 <p align="left">
-  <a href="https://linkedin.com/in/ton-lien" target="_blank">
+  <a href="[https://linkedin.com/in/ton-lien](https://www.linkedin.com/in/abdessalem-chaouch-312852231/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:tonemail@gmail.com">
+  <a href="mailto:abdessalem.chaouch@esprit.tn">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -60,8 +60,8 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Slouumaa&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slouumaa&layout=compact&theme=tokyonight" alt="Top Langs" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdessalem-Chaouch &show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdessalem-Chaouch &layout=compact&theme=tokyonight" alt="Top Langs" height="180px"/>
 </p>
 
 ---
