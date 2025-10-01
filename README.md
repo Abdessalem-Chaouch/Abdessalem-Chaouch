@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm Slouma Chaouch</h1>
+<h1 align="center">👋 Hi there, I'm Abdessalem Chaouch</h1>
 <h3 align="center">💻 Passionate Developer & Tech Enthusiast from Tunisia 🇹🇳</h3>
 
 ---
