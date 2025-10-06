@@ -1,19 +1,32 @@
-<h1 align="center">👋 Hi there, I'm Abdessalem Chaouch</h1>
-<h3 align="center">💻 Full-Stack Developer | Big Data Enthusiast | MERN & PHP Frameworks</h3>
-<p align="center">📍 Hammamet, Tunisia | 📧 abdessalem.chaouch@esprit.tn | <a href="https://www.linkedin.com/in/abdessalem-chaouch-312852231/">LinkedIn</a> </p>
+<!-- HEADER ANIMÉ -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=👋+Hi+there,+I'm+Abdessalem+Chaouch!;💻+Full-Stack+Developer;🚀+Big+Data+Enthusiast;🌐+MERN+%26+PHP+Frameworks" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  📍 <b>Hammamet, Tunisia</b> • 
+  📧 <a href="mailto:abdessalem.chaouch@esprit.tn">abdessalem.chaouch@esprit.tn</a> • 
+  🌐 <a href="https://www.linkedin.com/in/abdessalem-chaouch-312852231/">LinkedIn</a>
+</p>
 
 ---
 
-## 🌟 About Me
-- 🔭 Currently working on **Bookshare**, a web application for book management and sharing
-- 🤝 Open to collaborating on **innovative full-stack, mobile, and Big Data projects**
-- 🎯 Goals: Build **smart applications that empower users and optimize processes**
-- 🍿 Fun fact: I love **mystery & tech documentaries**, and exploring emerging tech
+## 🌟 About Me  
+
+- 🔭 Currently working on **Bookshare**, a web app for book management & sharing  
+- 🤝 Open to collaborating on **Full-Stack, Mobile & Big Data projects**  
+- 🎯 Goal: Build **smart & scalable applications** that empower users  
+- 🍿 Fun fact: I love **mystery tech documentaries** & exploring emerging technologies  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400"/>
+</p>
 
 ---
 
 ## 🌍 Connect with Me  
-<p align="left">
+
+<p align="center">
   <a href="https://www.linkedin.com/in/abdessalem-chaouch-312852231/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -60,32 +73,37 @@
 
 ## 🚀 Projects  
 
-### 💼 Current Project: **Bookshare**
-- Technologies: Laravel, Angular, MySQL
-- Web application for managing and sharing books
-- Features: CRUD operations for books, user authentication, admin panel, search & filter, responsive UI
+### 💼 **Bookshare**
+📚 *Web app for book management & sharing*  
+Tech: Laravel | Angular | MySQL  
+Features: CRUD, Auth, Admin panel, Search & Filter, Responsive UI  
 
-### 🧑‍⚕️ Emergency Management System (SIGU)
-- MERN stack + JWT + AI triage + WebSockets
-- Real-time ambulance coordination, patient triage automation
+### 🧑‍⚕️ **Emergency Management System (SIGU)**
+🧠 MERN stack + JWT + AI triage + WebSockets  
+🚑 Real-time ambulance coordination & patient triage automation  
 
-### 🌐 Holiday Study HLV
-- WordPress + HTML/CSS/JS + SEO
-- Developed and optimized company website with analytics integration
+### 🌐 **Holiday Study HLV**
+🌎 WordPress + HTML/CSS/JS + SEO  
+📈 Optimized company website with analytics integration  
 
-### 🏢 Solar Panel Company Web
-- Symfony, Twig, Bootstrap, MySQL
-- Vitrine website with reservation system and dynamic client reviews
+### ☀️ **Solar Panel Company Web**
+Symfony, Twig, Bootstrap, MySQL  
+Dynamic client reviews + booking system  
 
-### 🛠️ Other Projects
-- **MediConnect**: Desktop (JavaFX/MySQL), Web (Symfony/Twig/Bootstrap), Mobile (FlutterFlow/Firestore)
+### 🛠️ **MediConnect**
+Desktop (JavaFX/MySQL) | Web (Symfony/Twig/Bootstrap) | Mobile (FlutterFlow/Firestore)
 
 ---
 
 ## 📊 GitHub Stats  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdessalem-Chaouch&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdessalem-Chaouch&layout=compact&theme=tokyonight" alt="Top Langs" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdessalem-Chaouch&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdessalem-Chaouch&layout=compact&theme=tokyonight" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdessalem-Chaouch&theme=tokyonight" height="180px"/>
 </p>
 
 ---
@@ -96,13 +114,19 @@
 
 ---
 
-## 🌱 Languages
-- English: B2  
-- French: B2
+## 🌱 Languages  
+- 🇬🇧 English: B2  
+- 🇫🇷 French: B2  
 
 ---
 
-## ⚽ Interests & Activities
-- Sports: Football, outdoor activities  
-- Volunteering: Vice-president, SOS Village d’Enfants – organizing social campaigns and activities  
-- Personal Development: Leadership, project management, social innovation
+## ⚽ Interests & Activities  
+- ⚽ Sports: Football & outdoor adventures  
+- 🤝 Volunteering: Vice-president @ SOS Village d’Enfants  
+- 🚀 Personal Development: Leadership & project management  
+
+---
+
+<p align="center">
+  <img src="https://github.com/Abdessalem-Chaouch/Abdessalem-Chaouch/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
