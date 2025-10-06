@@ -1,13 +1,9 @@
 <!-- HEADER ANIMÉ -->
 <h1 align="center">
   <!-- Markdown fallback + HTML fallback -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4A90E2&center=true&vCenter=true&width=700&lines=👋+Hi+there,+I'm+Abdessalem+Chaouch!;💻+Full-Stack+Developer;🚀+Big+Data+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=4A90E2&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hi+there,+I%27m+Abdessalem+Chaouch!;%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%9A%80+Big+Data+Enthusiast" />
 </h1>
 
-<!-- si l'image externe échoue, GitHub montrera l'alt; tu peux ajouter un GIF fallback en dessous -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="500" alt="fallback gif" />
-</p>
 
 <p align="center">
   📍 <b>Hammamet, Tunisia</b> • 
