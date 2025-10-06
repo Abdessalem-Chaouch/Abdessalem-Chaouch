@@ -130,5 +130,5 @@ Desktop (JavaFX/MySQL) | Web (Symfony/Twig/Bootstrap) | Mobile (FlutterFlow/Fire
 ---
 
 <p align="center">
-  <img src="https://github.com/Abdessalem-Chaouch/Abdessalem-Chaouch/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Abdessalem-Chaouch/Abdessalem-Chaouch/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
