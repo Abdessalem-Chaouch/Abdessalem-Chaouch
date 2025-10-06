@@ -101,7 +101,7 @@ Desktop (JavaFX/MySQL) | Web (Symfony/Twig/Bootstrap) | Mobile (FlutterFlow/Fire
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abdessalem-Chaouch&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdessalem-Chaouch&layout=compact&theme=tokyonight" height="180px"/>
+
 </p>
 
 <p align="center">
